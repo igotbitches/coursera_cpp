@@ -115,8 +115,8 @@ https://function-x.ru/sq_equations.html
 `1`		>>	 `1` 
 
 **Подсказка:** 
-- число `N` можно считывать в переменную типа `int` \
-- алгоритм перевода из десятичной системы счисления в двоичную, может быть найден, например, здесь: https://www.yaklass.ru/p/informatika/10-klass/informatciia-i-informatcionnye-protcessy-11955/predstavlenie-chislovoi-informatcii-v-kompiutere-11901/re-62e8903e-ba93-478a-85b5-ae45af40c658 \
+- число `N` можно считывать в переменную типа `int` 
+- алгоритм перевода из десятичной системы счисления в двоичную, может быть найден, например, здесь: https://www.yaklass.ru/p/informatika/10-klass/informatciia-i-informatcionnye-protcessy-11955/predstavlenie-chislovoi-informatcii-v-kompiutere-11901/re-62e8903e-ba93-478a-85b5-ae45af40c658 
 - в этой задаче вам может пригодиться контейнер `vector`; напоминаем, что добавление значения `x` в конец вектора `v` делается так: `v.push_back(x)`;
 
 [`open binary_numeral_system.cpp`](https://github.com/igotbitches/coursera_cpp/blob/master/Course%201.%20White%20belt/Week%201/binary_numeral_system.cpp)
