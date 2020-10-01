@@ -3,11 +3,11 @@
 A плюс B.
 На вход программе через стандартный ввод передаются два целых числа, по модулю не превышающие 100000. Выведите в стандартный вывод их сумму. \
 \
-2 3 >> 5 \
--4 -9	>> -13 \
--1 2 >> 1
+`2 3` >> `5` \
+`-4 -9`	>> `-13` \
+`-1 2` >> `1`
 
-[a_plus_b.cpp](https://github.com/igotbitches/coursera_cpp/blob/master/Course%201.%20White%20belt/Week%201/a_plus_b.cpp)
+[`open a_plus_b.cpp`](https://github.com/igotbitches/coursera_cpp/blob/master/Course%201.%20White%20belt/Week%201/a_plus_b.cpp)
 
 
 ## 2. min_string.cpp
@@ -16,11 +16,11 @@ A плюс B.
 В стандартном потоке даны три строки, разделённые пробелом. Каждая строка состоит из строчных латинских букв и имеет длину не более 30 символов. 
 Выведите в стандартный вывод лексикографически минимальную из них. \
 \
-(milk milkshake month) >>	milk \
-(c a b) >> a \
-(fire fog wood) >> fire
+`milk milkshake month` >>	`milk` \
+`c a b` >> `a` \
+`fire fog wood` >> `fire`
 
-[min_string.cpp](https://github.com/igotbitches/coursera_cpp/blob/master/Course%201.%20White%20belt/Week%201/min_string.cpp)
+[`open min_string.cpp`](https://github.com/igotbitches/coursera_cpp/blob/master/Course%201.%20White%20belt/Week%201/min_string.cpp)
 
 ## 3. equation.cpp
 
