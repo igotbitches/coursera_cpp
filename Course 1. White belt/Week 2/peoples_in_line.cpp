@@ -10,7 +10,7 @@ int main(){
         bool quite;
     };
 
-    int Q; //количество операций
+    int Q;
     cin >> Q;
     vector<Person> personVector;
 
